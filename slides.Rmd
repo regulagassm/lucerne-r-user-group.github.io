@@ -1,0 +1,12 @@
+---
+title: "Slides"
+output:
+  html_document:
+    df_print: paged
+---
+
+Here you can find slides from past meetups.
+
+### November 25, 2020
+- [How to better structure code using own R packages to analyse advertising campaigns](https://github.com/Lucerne-R-User-Group/2020_11_25-meeting-3/tree/main/01-duran-adroher-rpackages) (Nùria Duran Adroher, Signifikant)
+
