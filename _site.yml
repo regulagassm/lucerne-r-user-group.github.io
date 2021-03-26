@@ -16,6 +16,9 @@ navbar:
         - text: "Heading 1"
         - text: "Past Events"
           href: slides.html
+        - text: "Sponsors"
+          href: sponsors.html
+          
   right:
     - icon: fa-question fa-lg
       href: https://www.meetup.com/Lucerne-R-User-Group/
